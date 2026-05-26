@@ -1,6 +1,6 @@
 # Hi, I'm Pavan Chinta 
 
-QA Automation Engineer with 3+ years of experience building Selenium/Pytest 
+QA Automation Engineer with 2+ years of experience building Selenium/Pytest 
 frameworks, integrating CI/CD pipelines, and designing scalable test architecture.
 Deliberately upskilling in data analysis and ML to move toward data-aware quality engineering.
 
