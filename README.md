@@ -1,4 +1,11 @@
-# Hi, I'm Pavan Chinta 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&width=500&lines=QA+Automation+Engineer;Selenium+%7C+Playwright+%7C+Pytest;Building+quality+in%2C+not+bolting+it+on)](https://git.io/typing-svg)
+
+# Hi, I'm Pavan Chinta 
+
+![](https://img.shields.io/badge/QA%20Automation-Selenium%20%7C%20Playwright%20%7C%20Pytest-blue?style=flat-square)
+![](https://img.shields.io/badge/Open%20To-Remote%20%7C%20WFO%20%7C%20Freelance-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Based%20In-Hyderabad%2C%20India-lightgrey?style=flat-square)
+![](https://komarev.com/ghpvc/?username=pavan123chinta&color=blue&style=flat-square&label=Profile+Views)
 
 > QA Automation Engineer • Selenium, Playwright, Pytest, CI/CD • Remote · Hybrid · On-site (Hyderabad) · Freelance • I break things so your users don't.
 
