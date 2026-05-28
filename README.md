@@ -75,7 +75,7 @@ Also exploring **performance testing** beyond basic load checks — response tim
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://portfolio-xi-sable-59.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-chintapavan.p%40gmail.com-red?style=flat&logo=gmail)](mailto:chintapavan.p@gmail.com)
 
-Open to **remote QA roles**, **on-site/WFO positions in Hyderabad**, and **freelance projects** — automation builds, framework setup, or QA consulting. If your team ships fast and needs someone who can build quality in, not bolt it on, let's talk.
+Open to **remote QA roles**, **on-site/WFO**, and **freelance projects** — automation builds, framework setup, or QA consulting. If your team ships fast and needs someone who can build quality in, not bolt it on, let's talk.
 
 ---
 
