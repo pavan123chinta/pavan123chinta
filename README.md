@@ -53,7 +53,7 @@ I work across **manual** and **automation** testing — from exploratory session
 
 | | |
 |---|---|
-| ![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan123chinta&show_icons=true&theme=github_dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan123chinta&layout=compact&theme=github_dark&hide_border=true) |
+| ![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan123chinta&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan123chinta&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800) |
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pavan123chinta&theme=github-dark-blue&hide_border=true)
 
@@ -79,4 +79,4 @@ Open to **remote QA roles**, **on-site/WFO positions in Hyderabad**, and **freel
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pavan123chinta&theme=darkhub&no-frame=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=pavan123chinta&theme=darkhub&no-frame=true&margin-w=4&row=1&no-bg=true)
