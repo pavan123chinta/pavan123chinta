@@ -60,8 +60,4 @@ Also exploring **performance testing** beyond basic load checks — response tim
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pavan123chinta&theme=darkhub&no-frame=true&margin-w=4&row=1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chintapavanqa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chintapavanqa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://portfolio-xi-sable-59.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-chintapavan.p@gmail.com-red?style=flat&logo=gmail)](mailto:chintapavan.p@gmail.com)
-
 Open to **remote**, **hybrid**, and **on-site roles** — and freelance or contract work globally. Automation builds, framework setup, or QA consulting. If your team ships fast and needs someone who can build quality in, not bolt it on, let's talk.
